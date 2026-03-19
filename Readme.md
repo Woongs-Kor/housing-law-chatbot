@@ -74,20 +74,6 @@ streamlit run app.py
 
 <br>
 
-## 🐳 Docker로 실행
-
-```bash
-# 이미지 빌드
-docker build -t housing-law-chatbot .
-
-# 컨테이너 실행
-docker run -p 8501:8501 --env-file .env housing-law-chatbot
-```
-
-브라우저에서 `http://localhost:8501` 접속
-
-<br>
-
 ## 💬 사용 예시
 
 ```
