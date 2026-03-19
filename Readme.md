@@ -93,7 +93,6 @@ housing-law-chatbot/
 ├── app.py                  # Streamlit UI
 ├── rag.py                  # RAG 파이프라인
 ├── requirements.txt        # 패키지 목록
-├── Dockerfile              # Docker 설정
 ├── .env.example            # 환경변수 예시
 └── .dockerignore
 ```
